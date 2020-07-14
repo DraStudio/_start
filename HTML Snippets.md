@@ -75,7 +75,7 @@
 
 <link rel="stylesheet" href="" />
 
-<link rel="stylesheet" href="css/style.scss" />
+<link rel="stylesheet" href="css/style.min.css" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
 
