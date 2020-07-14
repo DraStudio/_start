@@ -12,8 +12,7 @@
 <body>
 	<header></header>
 	<nav></nav>
-	<article></article>
-	<aside></aside>
+	<main></main>
 	<footer></footer>
 </body>
 </html>
@@ -45,8 +44,9 @@
 			<li><a href="#"></a></li>
 		</ul>
 	</nav>
-	<article></article>
-	<aside></aside>
+	<main>
+		<article></article>
+	</main>
 	<footer>
 		<p>Copyright &copy; 2020</p>
 	</footer>
@@ -90,7 +90,7 @@
 
 <meta charset="utf-8">
 <meta name="description" content="" />
-<meta name="author" content="Oscar Cortez of Dra Studio" />
+<meta name="author" content="Oscar Cortez of Drastudio" />
 <meta name="copyright" content="Copyright (c) 2020 Oscar Cortez" />
 <meta name="keywords" content="" />
 
@@ -123,4 +123,11 @@
 
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg"></svg>
+
+
+
+
+## JS Ideas
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
