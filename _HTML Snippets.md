@@ -1,4 +1,4 @@
-# HTML
+# HTML Snippets
 
 ## Basic Structure
 
