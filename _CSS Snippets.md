@@ -61,11 +61,7 @@ ul.icon li { list-style: none; padding-left: 20px; background-position: left cen
 
 ## Miscellaneous
 
--moz-transition: width 1s ease-in-out, left 1.5s ease-in-out;
--webkit-transition: width 1s ease-in-out, left 1.5s ease-in-out;
--moz-transition: width 1s ease-in-out, left 1.5s ease-in-out;
--o-transition: width 1s ease-in-out, left 1.5s ease-in-out;
-transition: width 1s ease-in-out, left 1.5s ease-in-out;
+transition: all .5s;
 
 .clear{clear: both; height: 0;}
 
