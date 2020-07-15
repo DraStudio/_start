@@ -31,8 +31,7 @@ curl -O http://
 defaults write com.apple.finder AppleShowAllFiles YES
 
 ### Add Dock Spacer
-defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'
-
+defaults write com.apple.dock persistent-apps -array-add '{tile-type="spacer-tile";}'
 killall Dock
 
 ### Change to Suck Minimize
