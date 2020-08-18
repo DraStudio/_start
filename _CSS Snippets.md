@@ -98,6 +98,10 @@ transition: all .5s;
 
 ***
 
+/* More specific ideas, thanks: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ */
+
+***
+
 
 /* CSS Media Queries, thanks: https://www.w3schools.com/css/css_rwd_mediaqueries.asp */
 
